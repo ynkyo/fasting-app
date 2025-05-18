@@ -1,4 +1,4 @@
-package com.fastingapp
+package com.kyo.fastingapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

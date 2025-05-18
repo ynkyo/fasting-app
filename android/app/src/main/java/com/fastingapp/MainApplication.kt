@@ -1,4 +1,4 @@
-package com.fastingapp
+package com.kyo.fastingapp
 
 import android.app.Application
 import com.facebook.react.PackageList
