@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967202432623",
+    "project_id": "fastingapp-3b1d8",
+    "storage_bucket": "fastingapp-3b1d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967202432623:android:c0ab6c5121d49285cd0f9a",
+        "android_client_info": {
+          "package_name": "com.fastingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967202432623-buht8vc13aacth00be9skc4fl1d2scum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fastingapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "967202432623-cf3hslq7ndehj06b6nm978boc0o3c43r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJv_FtIUTjlf2_g0heg4G2CiLCh8iA1cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967202432623-cf3hslq7ndehj06b6nm978boc0o3c43r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
