@@ -95,3 +95,39 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# Fasting App
+
+React Native + TypeScript で開発した Android 向けファスティングダイエットアプリです。
+
+## 主な機能
+
+- Figmaデザインを忠実に再現した美しいUI
+- タイマー・進捗バー・ステップカウンター
+- SVGアイコンによるリワード・連続記録表示
+- フッターメニューによる画面切り替え
+
+## セットアップ
+
+```sh
+git clone https://github.com/ynkyo/fasting-app.git
+cd fasting-app
+npm install
+```
+
+## 開発・起動
+
+```sh
+npx react-native run-android
+```
+
+## 使用技術
+
+- React Native
+- TypeScript
+- react-native-svg
+- Figmaデザイン
+
+## ライセンス
+
+MIT 
